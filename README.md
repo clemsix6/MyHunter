@@ -30,3 +30,15 @@ Le jeu inclut les caractéristiques suivantes:
 ### Utilisation
 
 Il suffit de compiler le projet avec make en ayant la lib CSFML d'installée sur le pc, puis de lancer le jeu avec la commande ./game.
+
+
+
+### Aperçus
+
+![](.gitbook/assets/image.png)
+
+Voici un aperçus du magnifique menu principal du jeu.
+
+![](<.gitbook/assets/image (2).png>)
+
+Enfin un aperçus du jeu en cours.
