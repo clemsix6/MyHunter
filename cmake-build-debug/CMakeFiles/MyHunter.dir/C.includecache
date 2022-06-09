@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/clement/Delivery/MyHunter/main.c
+stdlib.h
+-
+string.h
+-
+SFML/Graphics.h
+-
+SFML/Audio.h
+-
+SFML/System/Clock.h
+-
+math.h
+-
+stdio.h
+-
+my_hunter.h
+/home/clement/Delivery/MyHunter/my_hunter.h
+
+/home/clement/Delivery/MyHunter/my_hunter.h
+SFML/Graphics.h
+-
+stdbool.h
+-
+

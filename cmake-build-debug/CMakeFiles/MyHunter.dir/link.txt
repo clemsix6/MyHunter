@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/MyHunter.dir/main.c.o -o MyHunter 
