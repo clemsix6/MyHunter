@@ -14,7 +14,7 @@ Le jeu repose sur un petit moteur de jeu construit autour de la CSFML afin de g�
 
 
 
-### Features
+### Fonctionnalités
 
 Le jeu inclut les caractéristiques suivantes:
 
